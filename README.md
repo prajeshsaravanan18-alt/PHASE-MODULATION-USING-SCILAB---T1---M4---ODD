@@ -41,5 +41,19 @@ Where:
    * Use Scilab's plotting commands (`subplot`, `plot`, `xtitle`, `xgrid`) to display message, carrier, and modulated signals.
 
 ---
+## PROGRAM
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/72e2a698-b9db-4b6a-a164-4fb158fdc825" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/118ec81d-4249-4d82-a89f-ff3e6711020d" />
+
+## TABULATION
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/ed206bd8-7878-4f18-840f-3690f0227059" />
+
+## CALCULATION
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/72f4daf9-e1f6-4190-a064-7abf34f2b9f3" />
 
 ## MODEL GRAPH
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/4ed60cb5-f354-4e74-b641-ba433912de98" />
+## MARK SPLIT UP
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/f3dbf4b4-6da0-49e8-8331-083720bce050" />

@@ -54,6 +54,6 @@ Where:
 
 ## MODEL GRAPH
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/4ed60cb5-f354-4e74-b641-ba433912de98" />
-## MARK SPLIT UP
 
+## MARK SPLIT UP
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/f3dbf4b4-6da0-49e8-8331-083720bce050" />
